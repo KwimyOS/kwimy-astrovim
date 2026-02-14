@@ -1,0 +1,9 @@
+pkgbase = kwimy-astrovim
+	pkgdesc = AstroVim config preseeded for new users
+	pkgver = 0.0.1
+	pkgrel = 1
+	url = https://github.com/KwimyOS
+	arch = any
+	license = custom
+
+pkgname = kwimy-astrovim
